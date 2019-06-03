@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:se="http://svg-edit.googlecode.com" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="777" height="480">
+<rect x="200" y="200" width="200" height="200" fill="purple" /><!--house-->
+<rect x="320" y="170" width="30" height="30" fill="brown" /><!--chimney-->
+<rect x="230" y="240" width="50" height="50" fill="yellow" /><!--window1-->
+<rect x="320" y="240" width="50" height="50" fill="yellow" /><!--window2-->
+<rect x="50" y="100" width="50" height="50" fill="blue" /><!--rain-->
+<rect x="150" y="100" width="50" height="50" fill="blue" /><!--rain-->
+<rect x="250" y="100" width="50" height="50" fill="blue" /><!--rain-->
+<rect x="350" y="100" width="50" height="50" fill="blue" /><!--rain-->
+<rect x="450" y="100" width="50" height="50" fill="blue" /><!--rain-->
+</svg>
